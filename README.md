@@ -60,3 +60,7 @@ The ACR grants the rightsholder the exclusive right to reproduce and distribute 
 This adaptive approach to disclosure creates a resilient and practical system. It avoids forcing creators or commercial platforms into commercially difficult positions where a label might be perceived to affect market performance. Instead, it creates a powerful legal and economic incentive for honesty.
 
 Creators who seek the strongest possible legal shield will opt for full transparency. Those who prioritize market presentation can choose to be discreet, accepting a calculated trade-off in their enforcement position. This flexibility makes the ACR framework more resilient, practical, and likely to be widely adopted. It trusts creators to make the best choice for their work, while the mandatory, verifiable data signature ensures the system's core integrity always remains intact.
+---
+
+I hereby dedicate this work to the public domain under the Creative Commons CC0 1.0 Universal (CC0 1.0) Public Domain Dedication. This means you can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
